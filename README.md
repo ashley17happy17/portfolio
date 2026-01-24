@@ -36,7 +36,7 @@
 
 
 ## Portfolio
-### [LiDAR Calibration Toolkit
+### LiDAR Calibration Toolkit
 - one sentence summary
 - key tech
 - 可量化的contribution
@@ -58,6 +58,8 @@
 **Performance Analysis of Multi-Sensor Fusion Engine System Using INS/GNSS/LiDAR Scheme for Land Vehicular Navigation Applications**
 [add thesis image]
 
+
+<a name="published_papers"></a>
 ## Published Papers
 - *Chiang, K., Chiu, Y., Srinara, S., & Tsai, M. (2023). Performance of LiDAR-SLAM-based PNT with initial poses based on NDT scan matching algorithm. Satellite Navigation, 4(1), 1-15.*
 - *Srinara, S., & Chiu, Y. T. (2022, September). Adaptive Covariance Estimation of LiDAR based Positioning Error for Multi-Sensor Fusion Scheme with Autonomous Vehicular Navigation System. In Proceedings of the 35th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2022) (pp. 1650-1664).*
@@ -65,6 +67,7 @@
 - *Chiu, Y. T., Srinara, S., Chiang, K. W., Naser, E.  (2023) Performance Analysis of Multi-Sensor Fusion Engine System Using INS/GNSS/LiDAR/HD Map Scheme for Autonomous Driving PNT Application. International Symposium on Mobile Mapping Technology (abstract accepted)*
 
 
+<a name="technical_research_&_deep_dives"></a>
 ## Technical Research & Deep Dives
 Exploring the state-of-art techniques in autonomous driving and software engineering:
 - [PIN-SLAM](https://github.com/ashley17happy17/slam/blob/36f6f666002715c99a29bd70e9aed1ebc1c84aad/pin-slam.md)
