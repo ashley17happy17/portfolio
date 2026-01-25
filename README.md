@@ -29,31 +29,43 @@
 </details>
 
 
+<a name="skills"></a>
 ## Skills
 - **Language:** C, C++, Python, Matlab
 - **Tools/Frameworks:** ROS/ROS2, OpenCV, PyTorch, Docker
 - **Hardware Interfacing:** UART, CAN bus, LiDAR/GNSS calibration
 
 
+<a name="portfolio"></a>
 ## Portfolio
-### LiDAR Calibration Toolkit
+### LiDAR Calibration Toolkit  [[link]](https://github.com/ashley17happy17/lidar_eop_calib.git)
 - one sentence summary
 - key tech
 - 可量化的contribution
-- [link](https://github.com/ashley17happy17/lidar_eop_calib.git)
 
-### LiDAR Synchronization and Merge Toolkit
+### LiDAR Synchronization and Merge Toolkit  [[link]](https://github.com/ashley17happy17/lidar_sync_merge.git)
 - one sentence summary
 - key tech
 - 可量化的contribution
-- [link](https://github.com/ashley17happy17/lidar_sync_merge.git)
 
-### Localization Evaluation Toolkit
+## Extended Kalman Filter Based Automotive Dead Reackoning Localization System
+- one sentence summary
+- key tech
+- 可量化的contrib
+- Note: Due to NDA, the source code is not publicly available. Detailed methodologies can be discussed during the interview.
+
+### Localization Evaluation Toolkit  [[link]]()
 - one sentence summary
 - key tech
 - 可量化的contribution
-- [link]()
 
+### evo-trajectory to Global System Toolkit  [[link]]()
+- one sentence summary
+- key tech
+- 可量化的contribution
+
+
+<a name="thesis"></a>
 ## Thesis
 **Performance Analysis of Multi-Sensor Fusion Engine System Using INS/GNSS/LiDAR Scheme for Land Vehicular Navigation Applications**
 [add thesis image]
@@ -75,6 +87,7 @@ Exploring the state-of-art techniques in autonomous driving and software enginee
 - [KISS-ICP](https://github.com/ashley17happy17/slam/blob/36f6f666002715c99a29bd70e9aed1ebc1c84aad/kiss-icp.md)
 
 
+<a name="contact"></a>
 ## Contact
 - email: happy17happy17happy17@gmail.com
 
