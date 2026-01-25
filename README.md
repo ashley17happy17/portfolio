@@ -31,9 +31,14 @@
 
 <a name="skills"></a>
 ## Skills
-- **Language:** C, C++, Python, Matlab
-- **Tools/Frameworks:** ROS/ROS2, OpenCV, PyTorch, Docker
-- **Hardware Interfacing:** UART, CAN bus, LiDAR/GNSS calibration
+- **Language:** C++, Python, C, Matlab, Bash Scripting
+- **Hardware Interfacing & Protocols:** UART, CAN bus, UDS(ISO 14229). Experienced with **LiDAR (Ouster/Velodyne), GNSS/IMU Integration and Temporal Alignment**, and Camera interfaces.
+- **Robotics & Computer Vision:** ROS/ROS2 , OpenCV, Eigen, PyTorch.
+- **Domain Expertise:**
+  - *Sensor Calibration:* Intrinsic/Extrinsic, Multi-sensor Spatial-Temporal Synchronization.
+  - *Localization:* SLAM (LiDAR), Sensor Fusion (EKF/UKF), Point Cloud Processing (PCL).
+- **Software Engineering:** Git, Docker, Linux, CI/CD, Unit Testing (GTest/Pytest).
+- **Automotive & Diagnostic Tools:** CANoe/CANdb++, Kvaser CanKing, Intrepid Vehicle Spy, LIN Bus tools.
 
 
 <a name="portfolio"></a>
@@ -48,7 +53,7 @@
 - key tech
 - 可量化的contribution
 
-## Extended Kalman Filter Based Automotive Dead Reackoning Localization System
+### Extended Kalman Filter Based Automotive Dead Reackoning Localization System
 - one sentence summary
 - key tech
 - 可量化的contrib
@@ -59,7 +64,7 @@
 - key tech
 - 可量化的contribution
 
-### evo-trajectory to Global System Toolkit  [[link]]()
+### Transformation Toolkit of evo-trajectory to Global System  [[link]]()
 - one sentence summary
 - key tech
 - 可量化的contribution
