@@ -32,7 +32,7 @@
 <a name="skills"></a>
 ## Skills
 - **Language:** C++, Python, C, Matlab, Bash Scripting
-- **Hardware Interfacing & Protocols:** UART, CAN bus, UDS(ISO 14229). Experienced with **LiDAR (Ouster/Velodyne), GNSS/IMU Integration and Temporal Alignment**, and Camera interfaces.
+- **Hardware Interfacing & Protocols:** UART, CAN bus, UDS(ISO 14229). Experienced with <u>LiDAR (Ouster/Velodyne), GNSS/IMU Integration and Temporal Alignment</u>, and Camera interfaces.
 - **Robotics & Computer Vision:** ROS/ROS2 , OpenCV, Eigen, PyTorch.
 - **Domain Expertise:**
   - *Sensor Calibration:* Intrinsic/Extrinsic, Multi-sensor Spatial-Temporal Synchronization.
@@ -44,30 +44,31 @@
 <a name="portfolio"></a>
 ## Portfolio
 ### LiDAR Calibration Toolkit  [[link]](https://github.com/ashley17happy17/lidar_eop_calib.git)
-- one sentence summary
-- key tech
-- 可量化的contribution
+- Summary: This toolkit is an automated calibration suite is conduct <u>extrinsic calibration between LiDARs and GNSS</u>.
+- Key Technology: *Normal Distribution Transformation, Direct Georeferencing, Non-linear Least Squares optimization, Network Adjustment*.
+- Note: A KNN-based error analysis tool with a visualization interface is provided as well to quantify calibration precision.
+- Contribution: Toolkit research and develop 100%. Extrinsic calibration result achieves centimeter-level extrinsic accuracy.
 
 ### LiDAR Synchronization and Merge Toolkit  [[link]](https://github.com/ashley17happy17/lidar_sync_merge.git)
-- one sentence summary
-- key tech
-- 可量化的contribution
+- Summary: This toolkit synthesizes multi-LiDAR data through motion compensation and coordinate transformation to generate high-precision fused point clouds for model training.
+- Key Technology: *Motion Compensation, Direct Georeferencing, Point Cloud Denoising*.
+- Contribution: Toolkit research and develop 100%. Over one hundred-thousand frames of high-precision fused point cloud have been applied for static object model training.
 
 ### Extended Kalman Filter Based Automotive Dead Reackoning Localization System
-- one sentence summary
-- key tech
-- 可量化的contrib
+- Summary: Implemented an EKF-based ADR module that integrates multi-sensor inputs with kinematic motion constraints, effectively mitigating sensor drift and delivering lane-level positioning reliability for autonomous platforms.
+- Key Technology: *GNSS, IMU, Odeometer, Extended Kalman Filter, Non-Holonoic Constraints, Zero Velocity Update, Zero Integrated Heading Rate, Direct Georeferencing*.
+- Contribution: Toolkit research and develop 40%. 
 - Note: Due to NDA, the source code is not publicly available. Detailed methodologies can be discussed during the interview.
 
-### Localization Evaluation Toolkit  [[link]]()
-- one sentence summary
-- key tech
-- 可量化的contribution
+### Trajectory Position, Velocity, Attitude Evaluation Toolkit  [[link]](https://github.com/ashley17happy17/traj_pva_analysis.git)
+- Summary: Developed quantitative analysis tools to benchmark localization errors and systematically evaluate positioning performance.
+- Key Technology: *Direct Georeferencing, Coordinate Transformation*.
+- Contribution: Toolkit research and develop 100%. Precisely evaluate localization performace by not only north, east, up direction, but also hand out evaluation by along and cross track direction.
 
-### Transformation Toolkit of evo-trajectory to Global System  [[link]]()
-- one sentence summary
-- key tech
-- 可量化的contribution
+### Transformation Toolkit of evo-trajectory to Global System  [[link]](https://github.com/ashley17happy17/evo_traj_to_global.git)
+- Summary: A utility designed to transform localized ego-trajectories from the 'evo' framework into a global coordinate system through geospatial reference alignment and spatial transformation.
+- Key Technology: *Direct Georeferencing, Coordinate Transformation*.
+- Contribution: Toolkit research and develop 100%. Enhance the trajectory evaluation robustness via displaying in the global coordinate.
 
 
 <a name="thesis"></a>
@@ -90,6 +91,10 @@ Exploring the state-of-art techniques in autonomous driving and software enginee
 - [PIN-SLAM](https://github.com/ashley17happy17/slam/blob/36f6f666002715c99a29bd70e9aed1ebc1c84aad/pin-slam.md)
 - [LIO-SAM](https://github.com/ashley17happy17/slam/blob/36f6f666002715c99a29bd70e9aed1ebc1c84aad/lio-sam.md)
 - [KISS-ICP](https://github.com/ashley17happy17/slam/blob/36f6f666002715c99a29bd70e9aed1ebc1c84aad/kiss-icp.md)
+
+Notes for LiDAR temporal synchronization hardware/firmware/software settings:
+- [ouster](https://github.com/ashley17happy17/io/blob/575af60867f4b1390736307919d017bd3fa593b0/lidar/ouster.md)
+- [velodyne](https://github.com/ashley17happy17/io/blob/575af60867f4b1390736307919d017bd3fa593b0/lidar/velodyne.md)
 
 
 <a name="contact"></a>
