@@ -118,7 +118,7 @@
 ## Technical Research & Deep Dives
 Exploring the state-of-art techniques in autonomous driving and software engineering:
 - [PIN-SLAM](https://github.com/ashley17happy17/slam/blob/36f6f666002715c99a29bd70e9aed1ebc1c84aad/pin-slam.md)
-- [LIO-SAM](https://github.com/ashley17happy17/slam/blob/36f6f666002715c99a29bd70e9aed1ebc1c84aad/lio-sam.md)
+- [LIO-SAM](https://github.com/ashley17happy17/slam/blob/1f5fd76149b1a2fea1bf859a72db1d68337d843f/lio-sam.md)
 - [KISS-ICP](https://github.com/ashley17happy17/slam/blob/36f6f666002715c99a29bd70e9aed1ebc1c84aad/kiss-icp.md)
 
 Notes for LiDAR temporal synchronization hardware/firmware/software settings:
